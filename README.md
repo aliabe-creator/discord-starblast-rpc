@@ -5,8 +5,8 @@ https://drive.google.com/file/d/1YW00KIoI8fgAc4onH3AYaphb4ORgtrgH/view?usp=shari
 Anyone who clicks on your profile will be able to view your current system, its region, its mode, and how long you have been in-game. Further, by clicking on the appropriate buttons, they will be able to join you in game, as well as access dankdmitron’s excellent ServerList+.
 
 Credits:
-*thehackerboi69github* for the base code
-*dankdmitron* for his starblast-pinger node module
+*thehackerboi69github* for the base code | 
+*dankdmitron* for his starblast-pinger node module | 
 and my undisclosed programming nerd friend, who taught me the basics of JS.
 
 Set-up:
