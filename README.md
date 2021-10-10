@@ -1,6 +1,6 @@
 **Hello! This page is designed to help you get this in your Discord profile:**
 
-https://drive.google.com/file/d/1YW00KIoI8fgAc4onH3AYaphb4ORgtrgH/view?usp=sharing
+https://drive.google.com/drive/folders/1dWlz14aNU3pIG7ycx_SWSbvCW2l7vIFS?usp=sharing
 
 Anyone who clicks on your profile will be able to view your current system, its region, its mode, and how long you have been in-game. Further, by clicking on the appropriate buttons, they will be able to join you in game, as well as access dankdmitron’s excellent ServerList+.
 
@@ -37,4 +37,4 @@ The hard part is done! The rest is just plug and chug!
 5. Change any other text fields if you want, like large_text, button labels, etc.
 6. When you’re about to start a Starblast game or want to share your current game via your status, go to the project folder and type `node indexold.js <game link here>` in the command prompt. The specifications of your current game should show up on Discord for all to see!
 
-If you have any questions, feel free to DM me at aliabe#1337. Thanks for reading!
+If you have any questions, feel free to DM me at aliabe#4188. Thanks for reading!
